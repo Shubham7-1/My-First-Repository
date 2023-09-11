@@ -1,2 +1,3 @@
 # My-First-Repository
-Hello Sugar Labs 
+This is my first Git Repository. 
+Author - Shubham
